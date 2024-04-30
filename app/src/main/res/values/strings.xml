@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UnitConversion</string>
+    <string-array name="length_units">
+        <item>cm</item>
+        <item>m</item>
+    </string-array>
+    <string-array name="weight_units">
+        <item>g</item>
+        <item>kg</item>
+    </string-array>
+</resources>
